@@ -1,0 +1,1 @@
+generador qr realizado con la libreria QRCode.js de javascrip
